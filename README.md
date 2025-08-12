@@ -6,7 +6,7 @@ A simple and responsive QR Code component built using HTML and CSS. This project
 
 ## 🚀 Live Demo
 
-🔗 View Project
+🔗 View Project: https://project-qrcode-card.netlify.app/
 
 ---
 
@@ -39,7 +39,7 @@ A simple and responsive QR Code component built using HTML and CSS. This project
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/qr-code-component.git
+    git clone https://github.com/your-username/qr-code-component.git
 
 2. Open the index.html file in your browser.
 
