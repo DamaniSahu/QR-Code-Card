@@ -53,5 +53,5 @@ I’m always looking to improve! If you have any suggestions or improvements, fe
 
 ## 📌 Connect with Me
 
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/damanisahulinkdin/
 
